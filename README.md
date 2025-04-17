@@ -3,4 +3,4 @@ Acest proiect surprinde un subiect de o importanță majoră din domeniul securi
 În cadrul acestui proiect, detecția s-a concentrat pe identificarea URL-urilor malițioase asociate atacurilor de tip phishing. Pentru îndeplinirea acestui obiectiv, au fost utilizate trei metode de învățare automată: LSTM, KNN și Random Forest.
 În acest context, proiectul propune o analiză comparativă între cele trei modele propuse, evaluând performanța fiecăruia. Scopul principal al analizei a fost identificarea celui mai eficient model de învățare automată pentru acest tip de detecție, în funcție de rezultatele obținute pe seturile de date.
 
-[Documentatie completa proiect](Phishing (4).pdf)
+[Documentație completă proiect](Proiect.pdf)
